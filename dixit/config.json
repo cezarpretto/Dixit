@@ -9,8 +9,8 @@
     },
 
     // utils.hash_obj() of password for /admin/ page
-    "admin_password" : "",
-    "admin_enable": false,
+    "admin_password" : "123mudar",
+    "admin_enable": true,
 
     // These all need to be ints, -1 for infinity
     "limits" : {
