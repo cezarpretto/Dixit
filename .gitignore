@@ -1,4 +1,4 @@
-dixit/static/cards/*
+#dixit/static/cards/*
 *.pyc
 *.swp
 *.egg-info
